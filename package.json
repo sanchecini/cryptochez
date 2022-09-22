@@ -11,6 +11,9 @@
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/lab": "^5.0.0-alpha.100",
+    "@mui/material": "^5.10.6",
+    "@mui/styles": "^5.10.6",
     "axios": "^0.27.2",
     "chart.js": "^3.9.1",
     "react": "^18.2.0",

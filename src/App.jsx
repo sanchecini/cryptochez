@@ -1,5 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { makeStyles } from "@material-ui/core";
+import { makeStyles } from "@mui/styles";
 import Homepage from "./Pages/Homepage";
 import "./App.css";
 import CoinPage from "./Pages/CoinPage";
