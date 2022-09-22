@@ -51,7 +51,7 @@ const Header = () => {
    <AppBar color='transparent' position='static'>
     <Container>
       <Toolbar>
-        <Typography onClick={( () =>  navigate('/') )} className={classes.title}>Crypto JACHEZ</Typography>
+        <Typography onClick={( () =>  navigate('/') )} className={classes.title}> CRYPTOCHEZ </Typography>
 
         <Select
         variant="outlined"

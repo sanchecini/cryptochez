@@ -39,7 +39,7 @@ function  Banner() {
         variant='h2'
         style={{fontWeight: "bold", marginBottom: 15, fontFamily: "Montserrat",}}
         >
-        Crypto JACHEZ
+        CRYPTOCHEZ
         </Typography>
         <Typography
         variant='subtitle2'
