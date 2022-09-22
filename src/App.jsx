@@ -1,7 +1,7 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { makeStyles } from "@material-ui/core";
 import Homepage from "./Pages/HomePage";
 import "./App.css";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
 import CoinPage from "./Pages/CoinPage";
 import Header from "./components/Header";
 import 'react-alice-carousel/lib/alice-carousel.css';
